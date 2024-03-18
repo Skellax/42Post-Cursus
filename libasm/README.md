@@ -35,6 +35,8 @@ may also be called symbolic machine code.</p>
   jg: condition rax > 0
   jne: condition rax != '\0'
   jmp : use to move with differents instructions, you can create a loop thanks to the jump command for exemple.
+  inc, dec : use to increment or decrement
+  add, sub, mul, div : arithmetic +, -, *, /;
   syscall: use to call function system like write , exit or read (each function system  have a specific number)
 
 ex: rax, 60 ; 60 is the number to call exit function
