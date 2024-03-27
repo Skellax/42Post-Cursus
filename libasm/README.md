@@ -49,7 +49,7 @@ They have other command so don't hesitate to check all options :) !
 
 <h2>Links</h2>
 
-<p>🇫🇷For french students:🇫🇷</p>
+<p>🇫🇷For french students:</p>
 <p>http://sdz.tdct.org/sdz/en-profondeur-avec-l-assembleur.html</p>
 <p>https://www.youtube.com/watch?v=fvtd2Ut3MHw&list=PLrSOXFDHBtfEs7PCC6r44iXiX5gMlbjcR</p>
 
