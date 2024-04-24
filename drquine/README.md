@@ -46,7 +46,28 @@ If there a no difference, it's good !
  <h3>Grace</h3>
 
  <ul>
-   <li></li>
+   <li>The executqble ,ust be nq,ed Grqce</li>
+   <li>When executed, the program writes in a file named Grace_kid.c for C and Grace_kid.s</li>
+   <li>The source code must strickly contain</li>
+   <ul>
+     <li>No main declared</li>
+     <li>Three defines only</li>
+     <li>One comment</li>
+   </ul>
+   <li>Yhe program will run by calling a macro</li>
+ </ul>
+
+ <h3>Sully</h3>
+ 
+ <ul>
+   <li>Yhe executable must be named Sully</li>
+   <li>When executed the program writes in a file named Sully_X.c?Sully_X.s> The X will be an integer given in the source. Once the fil is created, the program co;piles this file and then runs the new program(wich will have the name of its source file).</li>
+   <li>Stopping the programs depends on the file name : the resulting program will be executed only if the interger X is freateror equals that zero</li>
+   <li>An integer is thergore present in the source of your program and will have to evolbe by decrementing every time you create a source file frome the execution of the program.</li>
+   <li>You have no constraints on the source code, appart from the integer that will be set to 5 at first.</li>
  </ul>
 
  
+<h2>Links</h2>
+
+ def of quine: https://en.wikipedia.org/wiki/Quine_(computing)
