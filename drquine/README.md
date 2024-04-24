@@ -46,7 +46,7 @@ If there a no difference, it's good !
  <h3>Grace</h3>
 
  <ul>
-   <li>The executqble ,ust be nq,ed Grqce</li>
+   <li>The executable , must be name Grace</li>
    <li>When executed, the program writes in a file named Grace_kid.c for C and Grace_kid.s</li>
    <li>The source code must strickly contain</li>
    <ul>
