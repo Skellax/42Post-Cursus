@@ -13,7 +13,7 @@ to say the source code of the program. </p>
 
 <h2>Rules</h2>
 <p align = 'justify'>you can validate this project without ASM if you want the 100% you need to 
-finsihed the 3 exercices in C and ASM ! < /p> 
+finsihed the 3 exercices in C and ASM ! </p> 
 
 <ul>
   <li>File only .s for asm</li>
