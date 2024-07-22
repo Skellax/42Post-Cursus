@@ -8,7 +8,7 @@
 
   The Goal of the first project to piscine Unity is to create a simple platform game where you control a simple ball. Your ball must move  vertically and horizontally and could jump. If the ball touch the lava  it's game over !
 
-<h2>Exercice 00: Floor is Lava</h2>
+<h2>Exercise 00: Floor is Lava</h2>
 
 In the first exercice you need to create your first scene. 
 To create this game you need: 
@@ -27,7 +27,7 @@ The camera is created automatically when you started Unity Project, you could mo
 
 For this end of this exercice you could add color  for a better rendering.
 
-<h2>Exercice 01: Path of Exile </h2>
+<h2>Exercise 01: Path of Exile </h2>
 
 For this exercice you have to add a script for controlling your player. To move you have to use WASD or the arrows and for the jump  your could use the SpaceBar. 
 
@@ -39,7 +39,7 @@ They have differents ways to moving your player , for me i use a Character Contr
 Very simple for this exercice you need to add texture for your scene. You could use Unity Asset Store or wathever you want to import your own textures. 
 
 
-<h2>Exercice 03: The floor is always lava</h2>
+<h2>Exercise 03: The floor is always lava</h2>
 
 For this end you add a GameOver when your ball touched the floor (you can just a Debug.Log will diplsay GameOver in the console). 
 
