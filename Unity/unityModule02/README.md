@@ -72,6 +72,11 @@ Your enemy will have 3HP and a bullet does one damage. Don’t forgot to take in
 account the basic damage of your turret.
 If your enemy is defeated, it will be destroyed.
 
+<h2>Links</h2>
+
+https://youtu.be/--u20SaCCow?si=ccRBlRcVw1oyTWIV
+https://youtu.be/G7e_fzG_0Bk?si=-WsaQJBKJd55cuHZ
+
 
 
 
