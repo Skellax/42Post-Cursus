@@ -1,5 +1,10 @@
 <h1 align='center'>🎮Unity Module 04: Caterpillar Adventures Part I🎮</h1>
 
+<div align='center'>
+  <img src="https://github.com/Skellax/42Post-Cursus/blob/main/Unity/UnityModule04/game" width=400>
+  
+</div>
+
 <h2>Description</h2>
 
 This Moduls focus to animation and sound. You need to create a caterpillar  and you'll add differents 
@@ -21,6 +26,10 @@ the PlayerController script  after that you need to add differents animation for
 
 You can use the Animator for merge all your animations and add the conditions to trigger.
 Exemple q bool triger isJumping for animation jump.
+
+<div align="center">
+  <img src= "https://github.com/Skellax/42Post-Cursus/blob/main/Unity/UnityModule04/Animator" width=400/>
+</div>
 
 <h2>Exercice 01: A strange environment</h2>
 
