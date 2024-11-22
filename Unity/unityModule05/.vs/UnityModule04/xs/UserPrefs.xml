@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A04137B0-961C-401F-91FB-5D301D476440}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMovements.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovements.cs" Line="85" Column="77" />
+      <File FileName="Assets/TransitionLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/MoveCamera.cs" />
+      <File FileName="Assets/CactusAttack.cs" />
+      <File FileName="Assets/LianaAnimation.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityModule04" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerMovements.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ef2165d-990f-4cc6-812c-d272de54905c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

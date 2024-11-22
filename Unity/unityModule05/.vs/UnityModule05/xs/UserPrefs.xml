@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F34288D8-B3FC-DA2A-FEDE-91700A67C171}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Diary.cs">
+    <Files>
+      <File FileName="Assets/GameManager.cs" Line="47" Column="6" IsPinned="True" />
+      <File FileName="Assets/StartLevel.cs" />
+      <File FileName="Assets/PlayerMovements.cs" />
+      <File FileName="Assets/MoveCamera.cs" />
+      <File FileName="Assets/GameOptions.cs" />
+      <File FileName="Assets/TransitionLevel.cs" />
+      <File FileName="Assets/SecretWall.cs" />
+      <File FileName="Assets/Leaf.cs" />
+      <File FileName="Assets/ExitLevel.cs" />
+      <File FileName="Assets/UILayer.cs" />
+      <File FileName="Assets/SaveData.cs" />
+      <File FileName="Assets/Diary.cs" Line="28" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityModule05" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d0d77beb-7fb7-4c11-99ef-d185bcfa7263" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
