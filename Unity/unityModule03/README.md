@@ -50,7 +50,11 @@ You must also create a new map with an increased difficulty.
 
 <h2>Links</h2>
 
-https://www.youtube.com/watch?v=BGr-7GZJNXg&list=LL&index=6&t=190s
-https://www.youtube.com/watch?v=lF26yGJbsQk&list=LL&index=5
+<ul>
+  <li>https://www.youtube.com/watch?v=BGr-7GZJNXg&list=LL&index=6&t=190s</li>
+  <li>https://www.youtube.com/watch?v=lF26yGJbsQk&list=LL&index=5</li>
+</ul>
+
+
 
 
