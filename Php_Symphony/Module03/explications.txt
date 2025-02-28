@@ -1,0 +1,31 @@
+Installer Composer:
+
+1: sudo apt update ;
+
+2: sudo apt install curl php-cli php-mbstring git unzip ;
+
+3: curl -sS https://getcomposer.org/installer -o composer-setup.php ;
+
+4: HASH=`curl -sS https://composer.github.io/installer.sig` ;
+
+5: echo $HASH ; 
+
+6: php -r "if (hash_file('SHA384', 'composer-setup.php') === '$HASH') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+
+
+7: composer --version  
+
+
+
+Installer les differentes version du package Monolog: 
+
+ --creer 5 dossiers pour chaque tache demender par le sujet. 
+
+ -- utiliser composer require monolog/monolog "version";
+
+ --puis composer --install 
+
+
+Installer PHPUNIT e tant aue development requirement: 
+
+--composer require --dev phpunit/phpunit
