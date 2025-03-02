@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Brachydios {% endblock %}
+
+{% block content %}
+    <div class = "row">
+        <div class="col col-sm-8">
+            <h3 class="mt-5 mx-2">Description: </h3>
+            <p class="m-2 text-justify">Il possède une peau brillante d'un indigo profond, protégée par un grand nombre de plaques et de crêtes, et son corps est recouvert d'un myxomycète (wikipédia) aux propriétés explosives. Contrairement aux autres wyvernes de terre, le Brachydios possède une paire de membres antérieurs très développés, dont il se sert comme principal moyen de défense en frappant ses ennemis tel un boxeur. Il a deux doigts sur chaque main, chacun se terminant par une longue griffe courbe. Il sont positionnés contre les avant-bras et ne sont pas utilisés pendant le combat. Il a une corne de forme conique et sa queue se termine en une massue.
+En utilisant sa longue langue, il recouvre ses puissants " poings " et sa corne d'une substance volatile sécrétée par ses glandes salivaires. Cette "substance" donne aux parties touchées une lueur verte distincte.
+            </p>
+        </div>
+        <div class= "col col-sm-4">
+            <table class="table mt-5">
+                <tbody>
+                    <tr>
+                        <td class="text-center">
+                            <img src="{{ asset('images/brackydios.webp') }}" alt="Brachydios" width = "200" height = "200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class ="text-justify"> <strong> Nom: </strong> Brachydios </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong>Type: </strong> Wyverne terre </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong>Faiblesses elementaires </strong>: Eau, Glace </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong>Status </strong>: Fleau feu, Fleau poisse </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>   
+    </div>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Misutzune{% endblock %}
+
+{% block content %}
+    <div class = "row">
+        <div class="col col-sm-8">
+            <h3 class="mt-5 mx-2">Description: </h3>
+            <p class="m-2 text-justify">Comme la plupart des autres léviathans, le Mizutsune a un long corps fin. Cependant, 
+            il est l'un des rares léviathans à avoir de la fourrure sur son corps. Cette fourrure couvre sa poitrine, son ventre, 
+            ses pattes et sa queue. Ses écailles sont de couleur claire et ressemblent à celles d'un poisson. Sa tête a un long museau et est magnifiquement décorée par de nombreux appendices ressemblant à ceux d'un poisson-chat. Ses ailettes sont de couleur rose avec des marques jaunes, et peuvent aussi être vues sur son dos et sa queue. Les ailettes des mâles ont une couleur plus rougeâtre, à cause de leur comportement plus agressif.[1] Cela dit, ses pieds sont complètements différents de ceux des autres léviathans et lui permettent de se déplacer rapidement sur terre.
+            </p>
+        </div>
+        <div class= "col col-sm-4">
+            <table class="table mt-5">
+                <tbody>
+                    <tr>
+                        <td class="text-center">
+                            <img src="{{ asset('images/misutzune.jpg') }}" alt="Misutzune" width = "200" height = "200">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class ="text-justify"> <strong> Nom: </strong> Misutzune </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong>Type: </strong> Levhiatan </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong>Faiblesses elementaires </strong>: Foudre, Dragon </td>
+                    </tr>
+                    <tr>
+                        <td class="text-justify"> <strong> Status </strong>: Fleau eau, Fleau bulle </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>   
+    </div>
+{% endblock %}
